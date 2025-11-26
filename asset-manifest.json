@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EverMart/static/css/main.2aca8c7a.css",
-    "main.js": "/EverMart/static/js/main.8e934d8b.js",
+    "main.js": "/EverMart/static/js/main.f224130e.js",
     "static/js/488.e75445ad.chunk.js": "/EverMart/static/js/488.e75445ad.chunk.js",
     "static/media/Cer-.gif": "/EverMart/static/media/Cer-.713a8c65ab4de481ae76.gif",
     "static/media/payment.gif": "/EverMart/static/media/payment.1ae117bb38d51631fdfb.gif",
@@ -23,11 +23,11 @@
     "static/media/8.webp": "/EverMart/static/media/8.ba38d64048a4150c9f56.webp",
     "index.html": "/EverMart/index.html",
     "main.2aca8c7a.css.map": "/EverMart/static/css/main.2aca8c7a.css.map",
-    "main.8e934d8b.js.map": "/EverMart/static/js/main.8e934d8b.js.map",
+    "main.f224130e.js.map": "/EverMart/static/js/main.f224130e.js.map",
     "488.e75445ad.chunk.js.map": "/EverMart/static/js/488.e75445ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2aca8c7a.css",
-    "static/js/main.8e934d8b.js"
+    "static/js/main.f224130e.js"
   ]
 }
