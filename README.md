@@ -79,4 +79,15 @@ cd frontend
 npm start
 The app will be available at http://localhost:3000.
 
+## 👤 Author
+Sangar Dev
+
+GitHub: https://github.com/SangarDev
+
+LinkedIn: [Your LinkedIn URL]
+
+
+
+
+
 
