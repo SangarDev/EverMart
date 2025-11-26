@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/EverMart/static/css/main.2aca8c7a.css",
+    "main.js": "/EverMart/static/js/main.8e934d8b.js",
+    "static/js/488.e75445ad.chunk.js": "/EverMart/static/js/488.e75445ad.chunk.js",
+    "static/media/Cer-.gif": "/EverMart/static/media/Cer-.713a8c65ab4de481ae76.gif",
+    "static/media/payment.gif": "/EverMart/static/media/payment.1ae117bb38d51631fdfb.gif",
+    "static/media/signin.gif": "/EverMart/static/media/signin.d127cf8f817c0b4e8357.gif",
+    "static/media/3.webp": "/EverMart/static/media/3.0ce669503e5596f2528a.webp",
+    "static/media/thanks.gif": "/EverMart/static/media/thanks.82a22f5ec1ad297acf13.gif",
+    "static/media/2.webp": "/EverMart/static/media/2.7c7afcc41f788e6c09d4.webp",
+    "static/media/cancel.gif": "/EverMart/static/media/cancel.66e50fb1a60e087e8205.gif",
+    "static/media/Sir Haseeb.JPG": "/EverMart/static/media/Sir Haseeb.f5da4d740c2c8b657419.JPG",
+    "static/media/10.webp": "/EverMart/static/media/10.4c9bc5728b883243e548.webp",
+    "static/media/9.webp": "/EverMart/static/media/9.c2ecea7f507a4073aca2.webp",
+    "static/media/5.webp": "/EverMart/static/media/5.b4fe815cca1fb6c4f31e.webp",
+    "static/media/1.webp": "/EverMart/static/media/1.e6e3cdc45634a8e6cd59.webp",
+    "static/media/6.webp": "/EverMart/static/media/6.dc092825bfcb1cc9720b.webp",
+    "static/media/Sir syedirfanullah.jpg": "/EverMart/static/media/Sir syedirfanullah.b6fe117b1dc21e5755c8.jpg",
+    "static/media/7.webp": "/EverMart/static/media/7.17b22401cd9dd5c38813.webp",
+    "static/media/4.webp": "/EverMart/static/media/4.12845462f5164b5e66ba.webp",
+    "static/media/Sir-junaid.jpg": "/EverMart/static/media/Sir-junaid.013fe4b07b03d185172b.jpg",
+    "static/media/8.webp": "/EverMart/static/media/8.ba38d64048a4150c9f56.webp",
+    "index.html": "/EverMart/index.html",
+    "main.2aca8c7a.css.map": "/EverMart/static/css/main.2aca8c7a.css.map",
+    "main.8e934d8b.js.map": "/EverMart/static/js/main.8e934d8b.js.map",
+    "488.e75445ad.chunk.js.map": "/EverMart/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aca8c7a.css",
+    "static/js/main.8e934d8b.js"
+  ]
+}
